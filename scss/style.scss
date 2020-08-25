@@ -37,16 +37,17 @@ body {
   display: flex;
   justify-content: center;
   align-content: center;
-  padding: 3.4rem 0 2.7rem 0;
+  padding: 4rem 0 3.8rem 0;
 
   .border-box {
     display: flex;
+    justify-content: center;
     width: 100%;
     max-width: 450px;
     border: $primary-color 7px solid;
   }
 
-  .title {
+  .title {  
     text-align: center;
     text-transform: uppercase;
     font-size: 1.5rem;
