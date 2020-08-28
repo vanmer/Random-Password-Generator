@@ -1,0 +1,18 @@
+.btn {
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    background-color: $primary-color;
+    border-radius: 0.4rem;
+  }
+  
+  .btn-large {
+    padding: 0.8rem 0;
+    font-size: 1.2rem;
+    background-color: $third-color;
+    color: $primary-color;
+  }
+  
+  .btn-large:hover {
+    background-color: $fourth-color;
+  }
