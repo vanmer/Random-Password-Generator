@@ -28,17 +28,17 @@ body {
     justify-content: center;
     width: 100%;
     max-width: 450px;
-    border: $primary-color 7px solid;
+    border: $primary-color 8px solid;
   }
 
   .title {  
     display: flex;
-    align-items: center;;
+    align-items: center;
     text-align: center;
     text-transform: uppercase;
     font-size: 1.5rem;
-    padding: 0.8rem 1rem;
-    line-height: 1.2;
+    padding: 1rem 1rem;
+    line-height: 1.3;
     letter-spacing: 0.2rem;
   }
 }
